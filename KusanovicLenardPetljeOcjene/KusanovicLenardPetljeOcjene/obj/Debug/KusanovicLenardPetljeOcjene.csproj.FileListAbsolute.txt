@@ -1,0 +1,7 @@
+C:\Users\Adminj\source\repos\KusanovicLenardPetljeOcjene\KusanovicLenardPetljeOcjene\obj\Debug\KusanovicLenardPetljeOcjene.csprojAssemblyReference.cache
+C:\Users\Adminj\source\repos\KusanovicLenardPetljeOcjene\KusanovicLenardPetljeOcjene\obj\Debug\KusanovicLenardPetljeOcjene.csproj.CoreCompileInputs.cache
+C:\Users\Adminj\source\repos\KusanovicLenardPetljeOcjene\KusanovicLenardPetljeOcjene\bin\Debug\KusanovicLenardPetljeOcjene.exe.config
+C:\Users\Adminj\source\repos\KusanovicLenardPetljeOcjene\KusanovicLenardPetljeOcjene\bin\Debug\KusanovicLenardPetljeOcjene.exe
+C:\Users\Adminj\source\repos\KusanovicLenardPetljeOcjene\KusanovicLenardPetljeOcjene\bin\Debug\KusanovicLenardPetljeOcjene.pdb
+C:\Users\Adminj\source\repos\KusanovicLenardPetljeOcjene\KusanovicLenardPetljeOcjene\obj\Debug\KusanovicLenardPetljeOcjene.exe
+C:\Users\Adminj\source\repos\KusanovicLenardPetljeOcjene\KusanovicLenardPetljeOcjene\obj\Debug\KusanovicLenardPetljeOcjene.pdb
